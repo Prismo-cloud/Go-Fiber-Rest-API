@@ -52,7 +52,7 @@ Middleware'ler
 
 Geliştirme Notları
 
-    İlk defa bir REST API geliştirdiğim için, geri bildirimlere açık bir yapıya sahibim. Projenin eksik veya geliştirilebilir yönlerini paylaşabilirsiniz.
+    İlk defa GO ile bir REST API geliştirdiğim için, geri bildirimlere açık bir yapıya sahibim. Projenin eksik veya geliştirilebilir yönlerini paylaşabilirsiniz.
     Recover Middleware özellikle hata durumlarının nasıl ele alındığını göstermek için eklendi.
 
 Katkıda Bulunma
@@ -62,4 +62,4 @@ Lisans
 
 Bu proje MIT lisansı ile lisanslanmıştır. Detaylar için LICENSE dosyasına bakabilirsiniz.
 
-İyi kodlamalar! 😊
+"Don’t panic and keep coding!" 🚀
