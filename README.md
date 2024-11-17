@@ -1,6 +1,6 @@
 # Go REST API
 
-Bu proje, Go ile yazılmış basit bir REST API'dir. API, farklı endpoint'ler ve middleware'ler ile temel bir yapı sunar. İlk defa bir REST API geliştirdiğim için bu proje, öğrenme sürecimdeki ilk adımları temsil ediyor.
+Bu proje, Go ile yazılmış basit bir REST API'dir. API, farklı endpoint'ler ve middleware'ler ile temel bir yapı sunar. İlk defa GO ile bir REST API geliştirdiğim için bu proje, öğrenme sürecimdeki ilk adımları temsil ediyor.
 
 ## Özellikler
 - **3 farklı endpoint:**
